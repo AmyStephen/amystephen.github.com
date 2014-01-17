@@ -48,7 +48,7 @@ In my humble opinion, there is bias at play.
 
 As people, we are largely unaware of our own bias. When we are selected, we want to believe we earned it and that no one else was better qualified. No one wants to believe they were provided an opportunity they didn't earn. That's what is meant by 'privilege' and *all of us* have it.
 
-It's pretty hard to compete if you don't have the chance to participate. To say that there are not many women who are competitive at Ski Jumping when women have not been given the chance to compete at Olympic levels is related or it is just a remarkable coincidence.
+It's pretty hard to compete if you don't have the chance to participate. To say that there are not many women who are competitive at Ski Jumping when women have not been given the chance to compete at Olympic levels *is related.* It is not just a remarkable coincidence.
 
 Starting this year, that changes. As time goes on, given opportunity to participate, I would bet my granddaughter's college fund on the fact that the number of women competing at
 world class levels in ski jumping will do nothing but climb.
@@ -66,6 +66,8 @@ read [bell hook](http://en.wikipedia.org/wiki/Bell_hooks)'s [take on it](http://
 
 In balance, however, I still encourage women in technology to read the book because it will take us generations to change
 some of our biases in thinking about gender. Kids need to be fed today. Bills need to be paid. As women, we need to learn to take care of ourselves.
+
+I challenge projects to look at how they invite contributors to participate. Have you involved women? Double-check the possibility of bias. Keep your eyes open for women developers. You might be missing an opportunity.
 
 Finally, I think it's important for women to help women. Any group that has a problem needs to work together to fix it. So, I *proudly* promote women in technology. I want women to know they aren't alone, that there are others of us out there who want to work in harmony as sisters, that we support one another and that we promote achievements made by women in technology.
 
