@@ -30,9 +30,6 @@ Rather than engage in YASTD* I volunteered to collect my thoughts in a post to e
 *YASTD - yet another silly twitter debate.
 
 ## Women Cannot Do It. (Yea, right.)
-
-![Inclusion of Women in Olympic Ski Jumping](http://graphics8.nytimes.com/images/2011/04/07/sports/olympics/07skijumpingpix/07skijumpingpix-popup.jpg)
-
 Before I go much further, I wonder how many people know that the
 [Sochi Games in 2014](http://www.olympic.org/sochi-2014-winter-olympics)
  represent the first time women will compete in ski jumping?
