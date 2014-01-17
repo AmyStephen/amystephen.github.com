@@ -10,7 +10,7 @@ tl/dr - Please follow [Margaret](https://twitter.com/dead_lugosi) and give her f
 
 A couple of days ago, I [tweeted](https://twitter.com/AmyStephen/status/422828979515437056):
 
-  SUPPORT FEMALE DEVS: @dead_lugosi created an interactive game where many players are needed: http://brunegame.com  Please join in / RT!
+  SUPPORT FEMALE DEVS: @dead_lugosi created an interactive game where many players are needed: [http://brunegame.com](http://brunegame.com)  Please join in / RT!
 
 A couple of my good Twitter friends,
 [@skoop](http://twitter.com/skoop) and
@@ -37,6 +37,7 @@ Before I go much further, I wonder how many people know that the
 [Sochi Games in 2014](http://www.olympic.org/sochi-2014-winter-olympics)
  represent the first time women will compete in ski jumping?
 You might, or might not, know that for years, female athletes have fought for inclusion.
+
 In a [2005 interview with NPR](http://www.npr.org/templates/story/story.php?storyId=5011904),
 the president of the International Ski Federation, Gian Franco Kasper, told reporters that there are
 "very few ladies who are really good in jumping."
@@ -48,7 +49,7 @@ jump.
 You think I kid? Just listen to [Kathrine Switzer's account](http://www.youtube.com/watch?v=fOGXvBAmTsY)
 of her experience as the first woman ever to run the Boston Marathon in 1967.
 
-It is ridiculous nearly 60 years later to continue to see women blocked from participation because
+It is ridiculous nearly 50 years later to continue to see women blocked from participation because
  the good 'ole boys network is unaware of how well secured the uterus is in the female body. =)
 
 ## Back To The Future
