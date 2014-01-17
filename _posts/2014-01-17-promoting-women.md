@@ -24,15 +24,14 @@ As I indicated on Twitter, in the past nearly ten
  years of working in open source I have primarily supported, trained, assisted and promoted men. I didn't (and don't)
  see a tweet promoting women as an issue. It was suggested that doing so was a form of reverse discrimination and
  that all of my efforts helping men were not a counterbalance to this single tweet since I had not helped those men
- on the basis of their gender. For that, I had discriminated against men.
+ on the basis of their gender. Ergo, my tweet discriminated against men.
 
-Rather than engage in YASTD*, I volunteered to collect my thoughts in a post to explain my thinking. =)
+Rather than engage in YASTD* I volunteered to collect my thoughts in a post to explain my thinking. =)
 *YASTD - yet another silly twitter debate.
 
 ## Women Cannot Do It. (Yea, right.)
 
-![Inclusion of Women in Olympic Ski Jumping]
-(http://graphics8.nytimes.com/images/2011/04/07/sports/olympics/07skijumpingpix/07skijumpingpix-popup.jpg)
+![Inclusion of Women in Olympic Ski Jumping](http://graphics8.nytimes.com/images/2011/04/07/sports/olympics/07skijumpingpix/07skijumpingpix-popup.jpg)
 
 Before I go much further, I wonder how many people know that the
 [Sochi Games in 2014](http://www.olympic.org/sochi-2014-winter-olympics)
