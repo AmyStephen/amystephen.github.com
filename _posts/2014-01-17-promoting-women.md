@@ -62,7 +62,7 @@ Also, I believe as women, we need to unlearn some of the 'grooming' we were rais
 [Lean In](http://www.amazon.com/Lean-In-Women-Work-Will/dp/0385349947) book shares ideas of this nature.
 
 We don't all agree on the approaches Sheryl describes. Some are critical of this philosophy because it is perceived to be blaming women for [institutional discrimination](http://en.wikipedia.org/wiki/Institutionalized_discrimination). I personally believe there are valid points in the opposition to a "Lean In" campaign and encourage those interested to
-read ]bell hook](http://en.wikipedia.org/wiki/Bell_hooks)'s [take on it](http://thefeministwire.com/2013/10/17973/).
+read [bell hook](http://en.wikipedia.org/wiki/Bell_hooks)'s [take on it](http://thefeministwire.com/2013/10/17973/).
 
 In balance, however, I still encourage women in technology to read the book because it will take us generations to change
 some of our biases in thinking about gender. Kids need to be fed today. Bills need to be paid. As women, we need to learn to take care of ourselves.
