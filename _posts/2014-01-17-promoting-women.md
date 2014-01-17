@@ -102,7 +102,7 @@ read bell hook's [take on it](http://thefeministwire.com/2013/10/17973/).
 
 In balance, I encourage women in technology to read the book because it will take us generations to change
 some of our biases in thinking about gender. Kids need to be fed today. Bills need to be paid. You need
-to learn to take yourself.
+to learn to take care of yourself.
 
 Finally, I think it's important for women to help women. Any group that has a problem needs to work together
 to fix it. So, I *proudly* promote women in technology. I want women to know they aren't alone, that there are
