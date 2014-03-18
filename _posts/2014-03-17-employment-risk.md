@@ -6,7 +6,6 @@ tags : [rant, community, feminism]
 ---
 {% include JB/setup %}
 
-
 Today, [Dave Winer](https://twitter.com/davewiner) blogged about a difficult time in his employer history where he
 was apparently sued by a developer code-named [Roy Wildstein](http://scripting.com/2014/03/17/royWildstein.html) fired for non-performance. I would comment on Dave's post but he closed the comments, encouraging those who wanted to respond to do so via a post of our own.
 
@@ -52,4 +51,4 @@ depicted in the series would be a huge benefit to any company fortunate enough t
 In my 30 years in the industry, I've had the great fortune of working along side both women and men of integrity and
 creativity, young and old, short and tall, fat and thin, with diverse ethnic and capability backgrounds. Hiring is a difficult and risky. There are no easy ways to mitigate risk but certainly there is nothing reliable about using skin color, gender, or age that provides a reasonable prediction about performance.
 
-You're wrong, Dave. 
+You're wrong, Dave.
