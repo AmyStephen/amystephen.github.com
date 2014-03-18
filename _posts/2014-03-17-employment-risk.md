@@ -17,7 +17,7 @@ Dave, this conclusion you drew is completely irresponsible. There is really no d
 
 In the past, I have defended some of your outlandish comments, but today, I just can't do that. It's a pretty horrifying statement you have made.
 
-As a woman, you might understand how I might be offended that your experience with one non performing developer, 20 years your senior in terms of experience, has lead you to conclude any of us who weren't just like you were at the time -- a young white male -- somehow increase the risk to our employing company that we plan to scam them.
+As a woman, you might understand how I could be offended that your experience with one non performing developer, 20 years your senior in terms of experience, has lead you to conclude any of us who weren't just like you were at the time -- a young white male -- somehow increase the risk to our employing company that we plan to scam them.
 
 I have over 30 years in the industry. I worked hard. Most of the time, I worked well over 60 hours a week. I have had excellent performance records, a history of promotions and increasing salary and responsibilities. Never did I find the need to sue my employer nor was I ever fired.
 
