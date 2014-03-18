@@ -9,7 +9,7 @@ tags : [rant, community, feminism]
 Today, [Dave Winer](https://twitter.com/davewiner) blogged about a difficult time in his employer history where he
 was apparently sued by a developer code-named [Roy Wildstein](http://scripting.com/2014/03/17/royWildstein.html) fired for non-performance. I would comment on Dave's post but he closed the comments, encouraging those who wanted to respond to do so via a post of our own.
 
-# Hello Dave Winder. I see your Roy Wildstein and I raise you one Julie Ann Horvath.
+# Hello Dave Winer. I see your Roy Wildstein and I raise you one Julie Ann Horvath.
 
 Dave, this conclusion you drew is completely irresponsible. There is really no defense for this comment:
 
