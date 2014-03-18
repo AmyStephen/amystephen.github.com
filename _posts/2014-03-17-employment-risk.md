@@ -21,12 +21,12 @@ As a woman, you might understand how I could be offended that your experience wi
 
 I have over 30 years in the industry. I worked hard. Most of the time, I worked well over 60 hours a week. I have had excellent performance records, a history of promotions and increasing salary and responsibilities. Never did I find the need to sue my employer nor was I ever fired.
 
-Let me suggest an alternative risk factor: spoon feeding a youthful vision via daily doses of specifications to a developer with 20 years more experience returning in eight hours expecting code.
+Let me suggest an alternative risk factor: spoon feeding a youthful vision via daily doses of specifications to a developer with 20 years more experience and returning in eight hours expecting code.
 
 Sounds like he played you. Too bad you didn't understand his apparent lack of respect for your futuristic vision and his willingness to screw you over. It's unfortunate such an experience has left you distrustful of anyone who isn't a young white male instead of looking inside to question your leadership approach.
 
-Giving your propensity for giant jumps in logic and the fact that you have provided no method of first verifying my
-assumptions, you'll forgive me if I assume you are really speaking
+Given your propensity for giant jumps in logic and the fact that you have provided no method of first verifying my
+assumptions, you'll forgive me if I wrongly assume you are really speaking
 about [Julie Ann Horvath's](https://twitter.com/nrrrdcore)
 [recent experiences](http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/) at Github that are just now hitting your Twitter stream.
 
@@ -36,7 +36,7 @@ To be clear:
 * Through her [public statements](http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/),
 we've learned that she has been dealing with this problem for a year before she finally found it so intolerable she had to resign.
 * Never once during that time did she make any public references to what she has now described as so difficult she sometimes sat crying in the restroom at her place of work.
-* It has obviously been a painful year for her and heartbreaking, given how hard she worked to address diversity issues at work only to find herself in a hostile work environment, herself.
+* It has obviously been a painful year for her and heartbreaking, given how hard she worked to address diversity issues at work only to find herself in a hostile work environment.
 
 Github [has](https://github.com/blog/1800-update-on-julie-horvath-s-departure) apologized to her, expressed respect and appreciation for her work, placed two employees on leave and prohibited one involved from entering the place of business. Julie is not scamming anyone.
 
@@ -45,7 +45,7 @@ and it would not help Julie or other men and women who find themselves in her si
 
 What I will say is anyone who hires Julie should know she comes with [high praise](https://github.com/blog/1800-update-on-julie-horvath-s-departure) from the CIO of Github. She has the unconditional support and respect of countless of us who appreciate her creativity, strong work ethic, integrity and strength of character.
 
-The technology community not only has a positive role model in Julie, but through her work producing [Passion Projects](http://passion-projects.github.com/), each month we have another example of someone who didn't just punch in at work on time and wait till someone told them what to code, but came to live their passion and exceed all expectations. Any one of those women
+The technology community not only has a positive role model in Julie, but through her work producing [Passion Projects](http://passion-projects.github.com/), each month we have another example of someone who didn't just punch in at work on time and wait for someone to tell them what to code, but came to live their passion and exceed all expectations. Any one of those women
 depicted in the series would be a huge benefit to any company fortunate enough to hire them.
 
 In my 30 years in the industry, I've had the great fortune of working along side both women and men of integrity and
