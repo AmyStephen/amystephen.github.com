@@ -43,7 +43,7 @@ Github [has](https://github.com/blog/1800-update-on-julie-horvath-s-departure) a
 It would be easy to respond in frustration to Julie's experiences and say every time a company hires a young white male, they run the risk of harming women. But, making ridiculous  statements of that nature would be spreading [FUD](http://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt)
 and it would not help Julie or other men and women who find themselves in her situation. And sadly, there are many in hostile work environments looking for support.
 
-What I will say is anyone who hires Julie should know she comes with [high praise](https://github.com/blog/1800-update-on-julie-horvath-s-departure) from the CIO of Github. She has the unconditional support and respect of countless of us who appreciate her creativity, strong work ethic, integrity and strength of character.
+What I will say is anyone who hires Julie should know she comes with [high praise](https://github.com/blog/1800-update-on-julie-horvath-s-departure) from the CEO of Github. She has the unconditional support and respect of countless of us who appreciate her creativity, strong work ethic, integrity and strength of character.
 
 The technology community not only has a positive role model in Julie, but through her work producing [Passion Projects](http://passion-projects.github.com/), each month we have another example of someone who didn't just punch in at work on time and wait for someone to tell them what to code, but came to live their passion and exceed all expectations. Any one of those women
 depicted in the series would be a huge benefit to any company fortunate enough to hire them.
