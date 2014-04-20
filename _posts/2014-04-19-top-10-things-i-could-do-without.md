@@ -6,22 +6,22 @@ tags : [rant, community]
 ---
 {% include JB/setup %}
 
-10. Calls for openness and transparency.
+*Number 10* Calls for openness and transparency.
 
-9. Self-proclaimed experts.
+*Number 9* Self-proclaimed experts.
 
-8. This notion that there is a 'right way' to do open source.
+*Number 8* This notion that there is a 'right way' to do open source.
 
-7. Repeated assurances of love for an open source project.
+*Number 7* Repeated assurances of love for an open source project.
 
-6. Good 'ole boys who deny privilege and those feminists who are unable to conceive of any other topic worthy of our attention.
+*Number 6* Good 'ole boys who deny privilege and those feminists who are unable to conceive of any other topic worthy of our attention.
 
-5. Claims of high moral ground.
+*Number 5* Claims of high moral ground.
 
-4. People who will not move on.
+*Number 4* People who will not move on.
 
-3. Those who sit quietly knowing that if they take a stand, it will cost them.
+*Number 3* Those who sit quietly knowing that if they take a stand, it will cost them.
 
-2. Those of us who can't figure out how to shut the fuck up.
+*Number 2* Those of us who can't figure out how to shut the fuck up.
 
-1. Denying crappy code.
+*Number 1*  Denying crappy code.
