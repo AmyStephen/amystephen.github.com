@@ -49,6 +49,6 @@ The technology community not only has a positive role model in Julie, but throug
 depicted in the series would be a huge benefit to any company fortunate enough to hire them.
 
 In my 30 years in the industry, I've had the great fortune of working along side both women and men of integrity and
-creativity, young and old, short and tall, fat and thin, with diverse ethnic and capability backgrounds. Hiring is a difficult and risky. There are no easy ways to mitigate risk but certainly there is nothing reliable about using skin color, gender, or age that provides a reasonable prediction about performance.
+creativity, young and old, short and tall, fat and thin, with diverse ethnic and capability backgrounds. Hiring is difficult and risky. There are no easy ways to mitigate risk but certainly there is nothing reliable about using skin color, gender, or age that provides a reasonable prediction about performance.
 
 You're wrong, Dave.
