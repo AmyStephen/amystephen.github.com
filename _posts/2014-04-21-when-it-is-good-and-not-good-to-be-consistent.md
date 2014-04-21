@@ -6,33 +6,37 @@ tags : [rant, community]
 ---
 {% include JB/setup %}
 
-This is one of those *thankfully* rare examples of how to *completely* use pronouns in a sexist manner.
+This is one of those *thankfully* rare examples of how not to ever, ever, ever, please do not ever, use pronouns like this, again! =)
 
-![Not all PHP developers are male.]({{ site.url }}/assets/PHP PRogrammer.jpg)
+[Not all PHP developers are of the male gender.]({{ site.url }}/assets/PHP PRogrammer.jpg)
 
-Now, before you say it, I realize this was produced by someone who likely does not use English as a primary
-language. Further, I get it that there is nothing that specifically excludes women by saying directly "only
-men are PHP programmers." What it does, however, is clearly exclude women from consideration and does so
- on an education piece related to hiring PHP developers.
+Now, before you say it, I realize this graphic was likely produced by someone who might not use English as a primary
+language. Further, I get it that there is nothing in the text that specifically excludes women by saying directly.
+I also agree with your unspoken comment that, as people, we tend to be overly sensitive.
 
-In terms of content, it's quite a good piece! Further, it's colorful, uses a balanced design, and catches
-the readers content. It would be awesome to fix this.
+However. This piece clearly excluded women from consideration and does so
+ on an education piece related to hoe yo hire PHP developers. Not cool.
 
-Here are examples of how to improve the information in a way that is inclusive.
+In terms of content, it's quite good! Further, it's colorful, uses a balanced visual design, catches
+the readers attention. It would be awesome to find the author and encourage them to fix the problems
+ and produce a copy worthy of sharing!
 
-1. Title: change 'While Hiring Them" to "when hiring."
-2. Developer images: Since there are two pictures of developers, change one to an image of a female developer.
+Here are examples of how to improve the information in a way that is inclusive:
+
+1. Developer images: Since there are two pictures of developers, change one to an image of a female developer.
 3. Change: 'Ask About His Experience" to 'Ask about experience'.
-4. Change: 'you should ask a developer is about his experience that whether he is experienced or not' to
-'Ask developers to share examples of their work to evaluate their experience and skill.'
+4. Change: 'you should ask a developer is about his experience' to
+'Ask developers about their experience.'
 5. Change: 'Ask About His PHP & HTML Programming Knowledge" to 'Ask about PHP and HTML Programming Knowledge."
 
-In general, it's best to avoid any pronoun use. Think about it for a minute. When hiring developers, what we
-care about is experience, skill, work ethic, reliability, enthusiasm, willingness to learn, easy to get along with,
-and so on. These characteristics are not gender specific so in reality there is no reason to introduce gender
-in such writing.
+In general, it's best to avoid any pronoun use. Just set a goal to not use it in your writing.
 
-Like all things, be it learning how to filter data correctly or read contents from a file, it takes time
-and practice to learn a skill. The same is true with writing. You'd be surprised how easy it is to
+For this particular piece, is gender relevant? As the piece suggests, when hiring developers, experience, skill,
+work ethic, reliability, enthusiasm, willingness to learn, easy to get along with,
+and so on, and the characteristics desired. Since none of those characteristics is more likely to be
+exhibited in a specific gender, there is absolutely no reason to introduce gender, at all.
+
+Like all things, learning correct approaches is important and it takes practice.
+That's as true for learning how to correctly sanitize data as it is to learning how to communicate appropriately.
+Since it is obviously not a goal to exclude women, don't do it! Learn! You'd be surprised how easy it is to
 avoid pronouns in your writing. Just takes a woman's touch. ;-)
-
