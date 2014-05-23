@@ -12,7 +12,7 @@ First, we all want to feel good about our accomplishments. I've worked very hard
 
 If you are a mother and in the technology industry, then you know how hard it is to take care of children and your job. Most married couples today rely on two incomes and it is often considered a requirement that both work. Most relationships have not really balanced the workload at home so women can be under a great deal of stress due to all of this responsibility. It is hard to see this in young mothers today and I feel for you.
 
-Women tend to just do it. We blame ourselves if we can't get up. We don't ask for help when we need it. We don't always negotiate for our own fairness. Encourage you to listen to [Jean Hsu on Motherboard](http://www.motherboardpodcast.com/episode-2-jean-hsu/), her husband and her work hard to balance the workload. It's rare.
+Women tend to just do it. We blame ourselves if we can't keep up. We don't ask for help when we need it. We don't always negotiate for our own fairness. Encourage you to listen to [Jean Hsu on Motherboard](http://www.motherboardpodcast.com/episode-2-jean-hsu/), her husband and her work hard to balance the workload. It's rare.
 
 I can see, now, that I suffered badly from the "Fuck you, I got mine." attitude, so I'm leaving it here today. It should be easier for women and other underrepresented populations in our field. There should be more of us in leadership positions in our open source projects. It should not be unusual to see a woman as a developer on a big community based open source projects. And trust me when I tell you, being patient and nice doesn't work.
 
