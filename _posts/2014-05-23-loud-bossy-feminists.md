@@ -6,8 +6,6 @@ tags : [feminism]
 ---
 {% include JB/setup %}
 
-# Hey you loud and bossy feminists with tone problems!
-
 Over the past few months, I've found myself unable to ignore this nagging feeling that I've been wrong about the extent of the problem women face in our industry. I've also had to stop and accept the fact that my privilege as a white CIS female, a wife, a mother, has been an issue, a blindness I have willingly built over the years. So, this is a confession of sorts and an explanation of where I now stand on a few issues.
 
 First, we all want to feel good about our accomplishments. I've worked very hard over the past 30 years, I've had to as a woman in a man's field. In order to be successful, it was not unusual that I put in 100 hour weeks and learn to `lean in` to compete with men in my field. Over the years, I came to accept this bias as a norm and it should not be that way.
