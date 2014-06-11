@@ -38,9 +38,9 @@ Even after the situation dies down, the story never goes away. There are constan
 
 This is a victim blaming. This is sexism.
 
-* The only discussion of the wrong doing itself is an evaluation of whether or not it was *wrong* with the purpose of clarifying the woman did not respond appropriately. Seemingly concerned citizens evaluate the mental health, the stability, the history, tweets from years ago, of the woman at adhoc trails across the Internet.
+The only discussion of the wrong doing itself is an evaluation of whether or not it was *wrong* with the purpose of clarifying the woman did not respond appropriately. Seemingly concerned citizens evaluate the mental health, the stability, the history, tweets from years ago, of the woman at adhoc trails across the Internet.
 
-* The only discussion about the authority who made the decision and took the action to fire the man is about the woman triggering the authority into action. The authority is nothing more than a button pushed by this woman who overreacted to the situation. "She had him fired." "She used her considerable influence against him."
+The only discussion about the authority who made the decision and took the action to fire the man is about the woman triggering the authority into action. The authority is nothing more than a button pushed by this woman who overreacted to the situation. "She had him fired." "She used her considerable influence against him."
 
 ## Respinning history
 By the time the story has been re-scripted, it looks more like this:
