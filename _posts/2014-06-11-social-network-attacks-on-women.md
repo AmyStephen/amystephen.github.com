@@ -136,4 +136,4 @@ If there are areas I really missed the point, please do share. Understand, these
 for the purpose of discussion and with an intent to help reduce overall conflict and stop these events where women are harmed.
 Not pointing fingers at anyone.
 
-Respectful comments are welcome. Comments that name people will be removed. If you are able to discuss at an conceptual level, your input is welcome..
+Respectful comments are welcome. **Comments that name people or events will be removed.** This is not a place to rehash the details of a past event. If you are able to discuss at an conceptual level, your input is welcome..
