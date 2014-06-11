@@ -70,7 +70,7 @@ That means suggesting women must explicitly define how they must be treated and 
 There is no reason to deny that it is not always clear what the rules are. Those concerned about crossing the line should be encouraged to build awareness on what is expected today by research and reading, talking to women in their lives, and asking questions. Being conservative in behavior in public always helps reduce risk.
 
 ### Ongoing conflict
-Sometimes, these events are part of an ongoing conflict. Regardless of what the woman did, retaliation is never a justification. What she did is not relevant.
+Sometimes, these events are part of an ongoing conflict. Regardless of what the woman did, retaliation is never a justification. What she did prior to the man taking action is not an excuse for his decision to take that action.
 
 ### No Double standards
 Not dealing with ongoing conflict could result in double standards. Ignoring this tends to feed the angry crowd and could potentially result in additional harm brought on the woman.
