@@ -12,7 +12,7 @@ how these patterns punish victims, not the one doing the wrong. I also tried to 
 show how those are not valid and only perpetuate more harm.
 
 **Note:** The fact that certain assertions are made about *how women should be treated*
-or *what women's rights are* in no way suggest anything one way or the other about men.
+or *what women's rights are* in no way suggests anything one way or the other about men.
 This article is not about men. This article is only about women. For some people, that is very
 difficult and offensive. That's why I am pulling that point out at the beginning. If you are unable
 to comfortably consider a woman's perspective independently, I advise you not to read further.
@@ -27,7 +27,7 @@ Without naming names or pointing to anything that happened, this is a basic patt
 
 * A **man did something bad** to a woman.
 * The victim was not silent, but instead **made the man's bad behavior visible**. Many times *the crowd* is asked to take action.
-* **Someone with authority fires the man.** His name and the event is documented on the Geek Feminist Wiki.
+* **Someone with authority fired the man.** His name and the event is documented on the Geek Feminist Wiki.
 * **The crowd responds by attacking the woman** for not remaining silent and for causing the man's firing.
 
 That is the basic pattern. When it's all said and done, the punishment for the woman can be extremely severe. "Concerned community" write blog posts which fan the flames of hate. It is not uncommon for the victim to be threatened physically.
@@ -117,7 +117,7 @@ Intent does not matter. When these things popup, supporters should be there remi
 Again, this is an area you just don't see happening to men. If he responds to something that happens to him, seldom, if ever is his life and reputation exposes in this manner. Important to raise awareness of this distinction and help people understand this subtle but damaging form of sexism.
 
 ### Apologies and support
-When these events happen, it is important to encourage the man who did something wrong to apology. It is equally important to acknowledge his apology. Those acts, if nothing else, reduce angst in the crowd. If he is helped to understand the damage he created and if he is treated with respect he will most likely grow and hopefully not reoffend.
+When these events happen, it is important to encourage the man who did something wrong to apologize. It is equally important to acknowledge his apology. Those acts, if nothing else, reduce angst in the crowd. If he is helped to understand the damage he created and if he is treated with respect he will most likely grow and hopefully not reoffend.
 
 Conversely if he is treated overly harshly by the community it could create resentment and more bad decisions could be made. When these situations come up, and if someone is so inclined, helping him acknowledge his wrong doing and react without making the situation worse is good.
 
