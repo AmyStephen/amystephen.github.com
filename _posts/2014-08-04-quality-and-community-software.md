@@ -47,7 +47,7 @@ that should be championed by a community valuing freely shared knowledge.
 A healthy open source community understands open participation will result in some bad software.
 Quality and security issues create problems for users and a community must work together to increase the quality of distributed software.
 
-A wise open source community understand how this challenge is handled, matters.
+A wise open source community understands that *how this challenge is handled*, matters.
 
 ### Enabling or Disabling Diversity?
 
@@ -55,20 +55,21 @@ Targeting beginner software resources in a negative way
 by personally attacking the resource provider, or continuously drawing attention to undefined quality problems
 restricts expansion of a diverse, international community.
 
-When the inner circle of established developers within an open source community is primarily white men from wealthy countries,
-caution is urged before responding publicly.
+When the inner circle of established developers within an open source community is primarily a group of white men from wealthy countries,
+extra caution is urged before responding publicly.
 
 Terms like "a lack of professionalism",
 "significant quality issues" and "security problems" are the software equivalent to yelling "Fire!" in a crowded theatre and
  ultimately undermine the involvement of those not in the inner circle.
 
 At best, approaches of that nature are not constructive.
-But, the damage can be significant by any approach intended to prevent involvement, to stop someone from participating,
- to stop a resource from being shared.
- A community that values diversity will call for an immediate stop to such tactics.
+But, the damage can be significant.
 
-The unintended result of influential inner circle members vocally opposing gifts shared can be discriminatory,
-end up supporting the status quo, and very possibly restrict the involvement of others.
+Any approach intended to prevent involvement, to stop someone from participating,
+ to stop a resource from being shared should be called for an immediate stop by a community that values diversity.
+
+The result of influential inner circle members vocally opposing gifts that are freely shared can be discriminatory,
+end up simply supporting the status quo, and very possibly restricts the involvement of others. Intention does not matter.
 
 ### Ensuring Quality
 
@@ -76,11 +77,11 @@ We need to be mindful of the fact that software quality is a shared responsibili
 
 #### Developer Responsibility
 
-The only responsibility a developer has in an open source community is to release software using an open source license.
-Period. It is important to make that clear from the start and to support developers in that regard.
+The only responsibility a developer has in an open source community is to release software using an [open source license](http://opensource.org/licenses).
+It is important to make that clear from the start and to support developers in that regard.
 We expect nothing other than a valid license.
 
-The message must be that sharing software freely gets you in the game and you are encouraged to play.
+The message to developers must be that sharing software freely gets you in the game and you are encouraged to play. We got your back.
 
 #### Community Responsibility
 
