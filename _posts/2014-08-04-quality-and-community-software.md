@@ -8,7 +8,7 @@ tags : [feminism]
 
 Many years ago, I left a high paying job to be more involved in the open source community.
 The primary reason I did so was my conviction that open source software is an important way to empower anyone with access to the Internet and a computer with ability to freely use, learn from, modify and share software.
-For me, sharing my software using an open source software is ethical software development.
+For me, sharing my software using an open source license is a key part of ethical software development.
 
 ## Enabling Learning and Collaboration
 
@@ -17,15 +17,15 @@ It requires a community that not only values diverse involvement but also guards
 
 ### Thinking Globally
 
-It is important for those of us from rich countries and regions like the UK, United States, and Europe to understand wealth is not distributed equally around the world.
+It is important for those of us from rich countries and regions like the UK, United States, and Europe to understand wealth is not distributed equally around the world or even within our own countries.
 When software and resources used to distribute and produce software, are made available free of charge, even those who live in poorer nations
 like Pakistan, the Philippines and India are not restricted by finances from learning and earning a living.
 
 ### Equal Opportunity and Expansion
 
 It is also important that everyone have equal opportunity to participate and influence the direction of software.
-When we are truly enabling open participation it will be obvious by the diversity of our attendees and speakers
-at conferences, guests on pir community podcasts, leaders in our community governance groups and developers on our community project teams.
+When we are truly enabling broad participation it will be obvious by the diversity of our attendees and speakers
+at conferences, guests on community podcasts, leaders in our community governance groups and developers on our community project teams.
 
 Today, open source involvement is largely limited to white men from the US, Europe and Australia.
 That means there is an enormous opportunity to expand involvement and impact world wide.
@@ -42,8 +42,8 @@ that should be championed by a community valuing freely shared knowledge.
 ## Software Quality
 
 A healthy open source community understands open participation will result in some bad software.
-Quality and security issues create problems for users and work together to enable increased quality of distributed software.
-How a community handles this challenge matters.
+Quality and security issues create problems for users and a community must work together to increase the quality of distributed software.
+But, how a community handles this challenge matters.
 
 ### Enabling or Disabling Diversity?
 
@@ -52,14 +52,14 @@ by personally attacking the resource provider, or continuously drawing attention
 restricts expansion of a diverse, international community.
 
 When the inner circle of established developers within an open source community is primarily white men from wealthy countries,
-caution is urged before responding publicly to community resources available. Using terms like "a lack of professionalism",
-"significant quality issues" or "security problems" are the software equivalent of "Fire!" in a crowded theatre and
+caution is urged before responding publicly. Terms like "a lack of professionalism",
+"significant quality issues" and "security problems" are the software equivalent to yelling "Fire!" in a crowded theatre and
  ultimately undermine the involvement of those not in the inner circle.
 
-Those approaches are not constructive, they are intended to prevent involvement, to stop someone from participating and
-a community that values diversity will call for an immediate stop to such tactics.
+Those approaches are not constructive. The approach is intended to prevent involvement, to stop someone from participating,
+ to prevent a resource from being shared. A community that values diversity will call for an immediate stop to such tactics.
 
-The unintended result of influential inner circle members vocally opposing a shared resource is discriminatory
+The unintended result of influential inner circle members vocally opposing gifts shared is discriminatory
  in that it ends up supporting the status quo and restricts the involvement of others.
 
 ### Ensuring Quality
@@ -74,7 +74,9 @@ Sharing software freely gets you in the game and you are encouraged to play.
 
 #### Community Responsibility
 
-From that point on, a community can promote safe and quality software practices and do so with free of charge
+Wait, what??? What if they release bad software? Shouldn't we stop them? My answer to that is no, we should *help* them improve their software.
+
+From the point a developer releases software, a community can promote safe and quality software practices and do so with free of charge
 resources to ensure everyone has access.
 
 My personal standard as a developer is to not release code until it is unit tested with a minimum of 95% code coverage,
@@ -88,12 +90,14 @@ Check issue queues for [closed versus opened](https://github.com/laravel/laravel
 verify whether or not there [regular commits](https://github.com/symfony/symfony/commits/master),
 determine if the project [guards against backward compatibility breaks](https://github.com/zendframework/zf2/issues/6507).
 
-Is the developer or project available?
-Are they working on a regular basis?
-Are they friendly?
-For frameworks with larger collections of code, I expect to see more activity than a single software package that might not change.
+* Is the developer or project available?
+* Are they working on a regular basis?
+* Are they friendly?
+* For frameworks with larger collections of code, I expect to see more activity than a single software package that might not change.
 
 #### User Responsibility
+
+But what if the developer rejects the ideas and pull requests and shares bad code, anyway? Should we stop them then? Again, my answer to that is no. We should *help* users understand their responsibilities.
 
 At the end of the day, each user is personally responsible for selecting and using open source software.
 As users, we are solely responsible for evaluating the software we use for suitability, safety and correctness.
