@@ -68,7 +68,7 @@ But, the damage can be significant by any approach intended to prevent involveme
  A community that values diversity will call for an immediate stop to such tactics.
 
 The unintended result of influential inner circle members vocally opposing gifts shared can be discriminatory,
-ends up supporting the status quo and very possibly restricts the involvement of others.
+end up supporting the status quo, and very possibly restrict the involvement of others.
 
 ### Ensuring Quality
 
