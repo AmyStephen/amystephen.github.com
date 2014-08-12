@@ -20,11 +20,11 @@ I'm here to tell you that you can live that way for decades. You can be successf
 
 It's a matter of attitude whether someone is helping maintain the status quo or helping the community adapt for more diverse participation.
 
-* If your first response to disappointment in 5% women speakers at a community conference is "Yea, but, how many women applied?", you are responding defensively and introducing a barrier to addressing the issue.
-* If you say "Maybe women don't like to code.", your response discourages anyone working on ways to encourage those who do want to code are wasting their time.
-* When you say, "I don't discriminate." You are excusing yourself from helping resolve the problem. If you are in a decision-making role, your attitude can create a real barrier to necessary change.
-* If you immediately call out "I don't want to be a token woman speaker!" or "Why would we select less qualified people just because of gender?" you are actually saying talented women, including yourself, don't exist or aren't worthy.
-* If you say "Everything is fine for me!" you are shaming those for whom it's not fine.
+*If your first response to disappointment in 5% women speakers at a community conference is "Yea, but, how many women applied?", you are responding defensively and introducing a barrier to addressing the issue.
+*If you say "Maybe women don't like to code.", your response discourages anyone working on ways to encourage those who do want to code are wasting their time.
+*When you say, "I don't discriminate." You are excusing yourself from helping resolve the problem. If you are in a decision-making role, your attitude can create a real barrier to necessary change.
+*If you immediately call out "I don't want to be a token woman speaker!" or "Why would we select less qualified people just because of gender?" you are actually saying talented women, including yourself, don't exist or aren't worthy.
+*If you say "Everything is fine for me!" you are shaming those for whom it's not fine.
 
 Imagine holding back those responses and approaching the discussion a little bit differently.
 Begin by allowing yourself to see those issues you, as a woman, have faced.
